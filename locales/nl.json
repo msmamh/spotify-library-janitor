@@ -1,0 +1,19 @@
+{
+  "links": {
+    "home": "Startpagina",
+    "musiclist": "Lijst Met Muziekbibliotheek",
+    "english": "Engels",
+    "dutch": "Nederlands"
+  },
+  "home": {
+    "title": "Bienvenue",
+    "introduction": "Het doel van deze applicatie is om een gebruiker te helpen bij het opruimen van zijn opgeslagen songs (Spotify presenteert deze als 'Your Library / Songs')"
+  },
+  "musiclist": {
+    "title": "Lijst Met Muziekbibliotheek",
+    "introduction": "Muziek lijst",
+    "loginmsg":"Log alstublieft in om toegang te krijgen tot deze pagina",
+    "loginlink":"Inloggen",
+    "logoutlink":"Uitloggen"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "links": {
+    "home": "Home",
+    "musiclist": "Music List",
+    "english": "English version",
+    "dutch": "Dutch version"
+  },
+  "home": {
+    "title": "Welcome",
+    "introduction": "The goal of this application is to assist a user in cleaning up his saved songs (Spotify presents these as 'Your Library / Songs')."
+  },
+  "musiclist": {
+    "title": "Music List",
+    "introduction": "Music List",
+    "loginmsg":"Please login to access this page",
+    "loginlink":"Login",
+    "logoutlink":"Logout"
+
+  }
+}
